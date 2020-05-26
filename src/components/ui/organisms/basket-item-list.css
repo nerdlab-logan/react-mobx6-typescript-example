@@ -1,0 +1,11 @@
+.basket-item-container {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.basket-item-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
